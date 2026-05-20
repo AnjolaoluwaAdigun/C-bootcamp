@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\CSharpAssignment3\CSharpAssignment3\bin\Debug\net10.0\CSharpAssignment3.exe
+C:\Users\User\Downloads\CSharpAssignment3\CSharpAssignment3\bin\Debug\net10.0\CSharpAssignment3.deps.json
+C:\Users\User\Downloads\CSharpAssignment3\CSharpAssignment3\bin\Debug\net10.0\CSharpAssignment3.runtimeconfig.json
+C:\Users\User\Downloads\CSharpAssignment3\CSharpAssignment3\bin\Debug\net10.0\CSharpAssignment3.dll
+C:\Users\User\Downloads\CSharpAssignment3\CSharpAssignment3\bin\Debug\net10.0\CSharpAssignment3.pdb
+C:\Users\User\Downloads\CSharpAssignment3\CSharpAssignment3\obj\Debug\net10.0\CSharpAssignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\CSharpAssignment3\CSharpAssignment3\obj\Debug\net10.0\CSharpAssignment3.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\CSharpAssignment3\CSharpAssignment3\obj\Debug\net10.0\CSharpAssignment3.AssemblyInfo.cs
+C:\Users\User\Downloads\CSharpAssignment3\CSharpAssignment3\obj\Debug\net10.0\CSharpAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\CSharpAssignment3\CSharpAssignment3\obj\Debug\net10.0\CSharpAssignment3.dll
+C:\Users\User\Downloads\CSharpAssignment3\CSharpAssignment3\obj\Debug\net10.0\refint\CSharpAssignment3.dll
+C:\Users\User\Downloads\CSharpAssignment3\CSharpAssignment3\obj\Debug\net10.0\CSharpAssignment3.pdb
+C:\Users\User\Downloads\CSharpAssignment3\CSharpAssignment3\obj\Debug\net10.0\CSharpAssignment3.genruntimeconfig.cache
+C:\Users\User\Downloads\CSharpAssignment3\CSharpAssignment3\obj\Debug\net10.0\ref\CSharpAssignment3.dll
