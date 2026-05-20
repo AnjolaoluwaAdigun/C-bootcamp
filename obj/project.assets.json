@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\CSharpAssignment3\\CSharpAssignment3\\CSharpAssignment3.csproj",
-      "projectName": "CSharpAssignment3",
-      "projectPath": "C:\\Users\\User\\Downloads\\CSharpAssignment3\\CSharpAssignment3\\CSharpAssignment3.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\C#\\Assignment2\\Assignment2.csproj",
+      "projectName": "Assignment2",
+      "projectPath": "C:\\Users\\User\\Desktop\\C#\\Assignment2\\Assignment2.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\CSharpAssignment3\\CSharpAssignment3\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\C#\\Assignment2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
